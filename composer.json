@@ -49,6 +49,10 @@
         {
             "type": "composer",
             "url": "https://nova.laravel.com"
-        }
+        },
+        {
+			"type": "vcs",
+			"url": "git@github.com:JustMoveIn/nova-editor-js.git"
+		}
     ]
 }
